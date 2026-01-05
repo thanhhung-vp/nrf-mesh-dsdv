@@ -1,0 +1,13 @@
+# Target labels
+ kltn-main
+# Source files and their labels
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/kltn-main
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/kltn-main.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/kltn-main-complete.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-build.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-configure.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-download.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-install.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-mkdir.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-patch.rule
+D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-update.rule

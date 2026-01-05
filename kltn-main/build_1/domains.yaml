@@ -1,0 +1,7 @@
+default: kltn-main
+build_dir: D:/DoAnNganh/DSDV_test/kltn-main/build_1
+domains:
+  - name: kltn-main
+    build_dir: D:/DoAnNganh/DSDV_test/kltn-main/build_1/kltn-main
+flash_order:
+  - kltn-main

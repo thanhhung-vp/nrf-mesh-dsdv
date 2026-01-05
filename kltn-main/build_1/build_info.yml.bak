@@ -1,0 +1,22 @@
+cmake:
+  board:
+    name: nrf54l15dk
+    path:
+     - C:/ncs/v3.0.1/zephyr/boards/nordic/nrf54l15dk
+    qualifiers: nrf54l15/cpuapp/ns
+    revision: 
+  images:
+   - name: kltn-main
+     source-dir: D:/DoAnNganh/DSDV_test/kltn-main
+     type: MAIN
+  kconfig:
+    files:
+     - D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/empty.conf
+     - D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/empty.conf
+    user-files:
+     - D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/empty.conf
+version: 0.1.0
+west:
+  command: C:\ncs\toolchains\0b393f9e1b\opt\bin\Scripts\west build --build-dir d:/DoAnNganh/DSDV_test/kltn-main/build_1 d:/DoAnNganh/DSDV_test/kltn-main --pristine --board nrf54l15dk/nrf54l15/cpuapp/ns --sysbuild -- -DDEBUG_THREAD_INFO=On -DCONFIG_DEBUG_THREAD_INFO=y -Dkltn-main_DEBUG_THREAD_INFO=On
+  topdir: c:\ncs\v3.0.1
+  version: 1.2.0

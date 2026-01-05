@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/kltn-main"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/kltn-main.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/CMakeFiles/kltn-main-complete.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-build.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-configure.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-download.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-install.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-mkdir.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-patch.rule"
+		},
+		{
+			"file" : "D:/DoAnNganh/DSDV_test/kltn-main/build_1/_sysbuild/sysbuild/images/kltn-main-prefix/src/kltn-main-stamp/kltn-main-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kltn-main"
+		],
+		"name" : "kltn-main"
+	}
+}
