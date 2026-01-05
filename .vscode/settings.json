@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "D:/DoAnNganh/DSDV/kltn-main",
+    "nrf-connect.applications": [
+        "${workspaceFolder}\\kltn-main"
+    ]
+}
